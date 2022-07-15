@@ -6,7 +6,7 @@
 4. 투구 - 확장(기본에서의 중복 내용 제외)
 5. 투구 - 구종구사(포심 혹은 투심 최고구속 포함)
 
-# 참고내용
+### 참고내용
 사용 라이브러리 - Pandas, bs4(BeautifulSoup), Selenium
 1. Selenium으로 각 링크별 driver page 생성
 2. driver page 내에서 BeautifulSoup로 크롤링
