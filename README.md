@@ -11,7 +11,7 @@
 ### 참고내용
 사용 라이브러리 - Pandas, bs4(BeautifulSoup), Selenium
 1. Selenium으로 각 링크별 driver page 생성
-2. driver page 내에서 BeautifulSoup로 크롤링
+2. driver page 내에서 BeautifulSoup로 크롤링 -> BeautifulSoup 연습을 위해 일부러 활용
 3. 각 페이지 크롤링 내용을 DataFrame화 한 후 List에 저장
 4. Selenium을 통해서 '다음'페이지로 이동 (예외처리를 통해 '다음'페이지가 없을 경우 수집 종료 처리)
 5. 수집한 페이지의 DataFrame List들을 수직 결합
